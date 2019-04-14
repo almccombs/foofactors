@@ -7,6 +7,10 @@ Authors@R:
            role = c("aut", "cre"),
            email = "amccombs@iastate.edu")
 Description: No idea.
-License: What license it uses
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/almccombs/foofactors
+BugReports: https://github.com/almccombs/foofactors/issues
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
