@@ -1,0 +1,12 @@
+Package: foofactors
+Title: Foo Package for Uncoast Unconf
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Audrey L",
+           family = "McCombs",
+           role = c("aut", "cre"),
+           email = "amccombs@iastate.edu")
+Description: No idea.
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
